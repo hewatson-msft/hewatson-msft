@@ -1,4 +1,4 @@
-Hi, I’m @hewatson-msft and I'm the Technical Program Manager (TPM) for the Platforms tech domain on the Commercial Software Engineering (CSE) team.
+Hi, I’m @hewatson-msft and I am the Technical Program Manager for the Platforms tech domain on the Commercial Software Engineering (CSE) team at Microsoft.
 
 <!---
 hewatson-msft/hewatson-msft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
